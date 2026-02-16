@@ -1,2 +1,17 @@
 # 3-5-Exercises
-Keyboard Input
+## Keyboard Input
+
+### What I Learned
+
+#### 1
+- how to store as a string (create a dialogue)
+- how to parse (change data type)
+- how to do all of it in one line
+
+#### 2
+- how to import packages
+- how to import and use a scanner
+- the importance of labling data
+- the importance of PEMDAS
+- how debug is used to run line by line
+- how to close the scanner (important regardless of necessity)
