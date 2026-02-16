@@ -3,12 +3,12 @@
 
 ### What I Learned
 
-#### 1
+#### Input01
 - how to store as a string (create a dialogue)
 - how to parse (change data type)
 - how to do all of it in one line
 
-#### 2
+#### Input03
 - how to import packages
 - how to import and use a scanner
 - the importance of labling data
